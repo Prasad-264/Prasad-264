@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/prasad-kandekar-719583205/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" /></a>
   <a href="mailto:prasadkandekar555@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" /></a>
-  <a href="https://x.com/i_m_prasad_" target="_blank"><img src="https://img.shields.io/static/v1?message=x&logo=&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo" /></a>
+<!--   <a href="https://x.com/i_m_prasad_" target="_blank"><img src="https://img.shields.io/static/v1?message=x&logo=&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo" /></a> -->
   <a href="https://leetcode.com/Prasad264/" target="_blank"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetCode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode logo" /></a>
   <a href="https://auth.geeksforgeeks.org/user/prasad264" target="_blank"><img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforGeeks&label=&color=0D96F6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GeeksforGeeks logo" /></a>
   <a href="https://www.codingninjas.com/codestudio/profile/Prasad" target="_blank"><img src="https://img.shields.io/static/v1?message=CodingNinjas&logo=codingNinjas&label=&color=4DB6AC&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="CodingNinjas logo" /></a>
@@ -86,6 +86,9 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/Prasad-264/Prasad-264/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
