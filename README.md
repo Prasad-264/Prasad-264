@@ -1,17 +1,43 @@
 ![Header image](https://github.com/Prasad-264/Prasad-264/blob/main/prasad_github_banner.png)
-I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
-##
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasad-kandekar-719583205/)](https://www.linkedin.com/in/prasad-kandekar-719583205/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prasadkandekar555@gmail.com)](mailto:prasadkandekar555@gmail.com)
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/Prasad264/)](https://leetcode.com/Prasad264/)
-[![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0D96F6?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/prasad264)](https://auth.geeksforgeeks.org/user/prasad264)
-[![Coding Ninjas Badge](https://img.shields.io/badge/-CodingNinjas-4DB6AC?style=flat-square&logo=CodingNinjas&logoColor=white&link=https://www.codingninjas.com/codestudio/profile/Prasad)](https://www.codingninjas.com/codestudio/profile/Prasad)
-[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/prasad264)](https://www.hackerrank.com/prasad264)
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=919284132082)](https://api.whatsapp.com/send?phone=919284132082)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/_.p.r.a_s.a.d._)](https://instagram.com/_.p.r.a_s.a.d._)
-[![x Badge](https://img.shields.io/badge/-x-000000?style=flat-square&logo=x&logoColor=white&link=https://x.com/i_m_prasad_)](https://x.com/i_m_prasad_)
 
-## ⚡ Skills:
+### 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left"> </p>
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
+  <img src="https://img.shields.io/static/v1?message=x&logo=&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo" />
+  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetCode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode logo" />
+  <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforGeeks&label=&color=0D96F6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GeeksforGeeks logo" />
+  <img src="https://img.shields.io/static/v1?message=CodingNinjas&logo=codingNinjas&label=&color=4DB6AC&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="CodingNinjas logo" />
+  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerRank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="HackerRank logo" />
+  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsApp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="WhatsApp logo" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Prasad-264.Prasad-264&"  />
+</div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left"><br>- 🔭 I’m working as SDE Intern at Rupeek Fintech Pvt Ltd.<br>- 📚 I'm currently pursuing my last year Bachelor of Engineering in Information Technology </p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -38,5 +64,19 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Prasad-264&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Prasad-264/Prasad-264/output/snake.svg" alt="Snake animation" />
 
 ###
