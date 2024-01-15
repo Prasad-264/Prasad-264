@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left"><br>- 🔭 I’m working as SDE Intern at Rupeek Fintech Pvt Ltd.<br>- 📚 I'm currently pursuing my last year Bachelor of Engineering in Information Technology </p>
+<p align="left">- 🔭 I’m working as SDE Intern at Rupeek Fintech Pvt Ltd.<br>- 📚 I'm currently pursuing my last year Bachelor of Engineering in Information Technology </p>
 
 ###
 
@@ -75,8 +75,16 @@
   <img src="https://streak-stats.demolab.com?user=Prasad-264&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+### 
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasad-264&show_icons=true&locale=en&layout=compact" alt="prasad-264" /></p>
+
 ###
 
-<img src="https://raw.githubusercontent.com/Prasad-264/Prasad-264/output/snake.svg" alt="Snake animation" />
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasad-264" alt="prasad-264" /></a> </p>
 
 ###
+
+
+
+
