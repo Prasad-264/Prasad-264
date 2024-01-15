@@ -6,15 +6,16 @@
 <p align="left"> </p>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
-  <img src="https://img.shields.io/static/v1?message=x&logo=&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo" />
-  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetCode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode logo" />
-  <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforGeeks&label=&color=0D96F6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GeeksforGeeks logo" />
-  <img src="https://img.shields.io/static/v1?message=CodingNinjas&logo=codingNinjas&label=&color=4DB6AC&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="CodingNinjas logo" />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerRank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="HackerRank logo" />
-  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsApp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="WhatsApp logo" />
+  <a href="https://www.linkedin.com/in/prasad-kandekar-719583205/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" /></a>
+  <a href="mailto:prasadkandekar555@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" /></a>
+  <a href="https://x.com/i_m_prasad_" target="_blank"><img src="https://img.shields.io/static/v1?message=x&logo=&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo" /></a>
+  <a href="https://leetcode.com/Prasad264/" target="_blank"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetCode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode logo" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/prasad264" target="_blank"><img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforGeeks&label=&color=0D96F6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GeeksforGeeks logo" /></a>
+  <a href="https://www.codingninjas.com/codestudio/profile/Prasad" target="_blank"><img src="https://img.shields.io/static/v1?message=CodingNinjas&logo=codingNinjas&label=&color=4DB6AC&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="CodingNinjas logo" /></a>
+  <a href="https://www.hackerrank.com/prasad264" target="_blank"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerRank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="HackerRank logo" /></a>
+  <a href="https://api.whatsapp.com/send?phone=919284132082" target="_blank"><img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsApp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="WhatsApp logo" /></a>
+  <a href="https://instagram.com/_.p.r.a_s.a.d._" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" /></a>
+  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" /></a>
 </div>
 
 ###
